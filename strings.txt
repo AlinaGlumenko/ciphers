@@ -1,0 +1,19 @@
+# Pig Latin
+
+hello
+ellohay
+
+At the forefront of golang excellence
+Atyay ethay orefrontfay ofyay olanggay excellenceyay
+
+It's the Oreo you've always dreamed of
+Ityay'say ethay Oreoyay youyay'evay alwaysyay eameddray ofyay
+
+There's A Bit Of Nutella In All Of Us.
+ereThay'say Ayay itBay Ofyay utellaNay Inyay Allyay Ofyay Usyay.
+
+Four Out Of Five Dentists Recommend Yalantis.
+ourFay Outyay Ofyay iveFay entistsDay ecommendRay Yalantisyay.
+
+hello - blabla, i like bla bla. Do you like blabla?
+ellohay - ablablay, iyay ikelay ablay ablay. oDay youyay ikelay ablablay?
